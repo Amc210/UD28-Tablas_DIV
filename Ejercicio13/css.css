@@ -1,0 +1,20 @@
+table, td{
+    width: 500px;
+    border: black solid 1px;
+    text-align: center;
+    font-weight: bold;
+}
+.rojo{
+    color: red;
+}
+.class1{
+    background-color: mediumspringgreen;
+}
+.class2{
+    background-color:mediumturquoise;
+    text-align: start;
+}
+.class6{
+    background-color: mediumvioletred;
+    text-align:right;
+}

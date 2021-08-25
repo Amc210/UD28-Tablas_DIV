@@ -1,0 +1,19 @@
+table, td{
+    width: 650px;
+    border: black solid 1px;
+    text-align: center;
+    margin-left: 480px;
+    margin-top: 1px;
+}
+.amarillo{
+    background-color: rgb(243, 245, 121);
+}
+.naranja{
+    background-color: rgb(247, 203, 166);
+}
+.verde{
+    background-color:rgb(2, 119, 2);
+}
+.patitas{
+    background-image: url("img/patitas.jpg");
+}

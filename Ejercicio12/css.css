@@ -1,0 +1,13 @@
+table, td, th{
+    border: rgb(39, 85, 172) solid;
+}
+th{
+    background-color: rgb(13, 59, 13);
+    color: rgb(86, 218, 114);
+}
+.dep{
+    background-color: rgb(30, 160, 25);/*La central se ve un pelin mas ocura*/
+}
+td{
+    background-color: rgb(68, 206, 98);
+}

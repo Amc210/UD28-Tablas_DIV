@@ -1,0 +1,22 @@
+table, td{
+    width: 500px;
+    border: black solid 1px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 480px;
+    margin-top: 1px;
+}
+th{
+    background-color: white;
+}
+.amarillo{
+    background-color: rgb(226, 188, 15);
+}
+.img{
+    background-repeat: no-repeat;
+    background-image: url("img/pinguinos.jpg");
+    background-position:center;
+    margin-bottom: 50px;
+    padding-top: 400px;
+    height: 400px;
+}

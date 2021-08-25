@@ -1,0 +1,24 @@
+.div1{
+    background: url("img/f01.png") left bottom repeat-x, url("img/f02.png") left bottom no-repeat, url("img/f03.png") left top repeat-x;
+    background-color: #a4d3ff;
+    height: 100px;
+    width: 240px;
+    border: blue solid 3px;
+}
+.div2{
+    background: url("img/f01.png") left bottom repeat-x, url("img/f02.png") left bottom no-repeat, url("img/f03.png") left top repeat-x;
+    background-color: #a4d3ff;
+    height: 350px;
+    width: 640px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px; /*Solo lo he puesto porque sale asi en el ejemplo*/
+    border: red solid 3px;
+}
+.div3{
+    background: url("img/f01.png") left bottom repeat-x, url("img/f02.png") left bottom no-repeat, url("img/f03.png") left top repeat-x;
+    background-color: #a4d3ff;
+    height: 100px;
+    width: 240px;
+    border: blue solid 3px;
+}
